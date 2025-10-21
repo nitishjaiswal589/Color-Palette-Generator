@@ -1,5 +1,7 @@
 # Color-Palette-Generator
+
 Delpoy Link :- https://color-palette-generation.netlify.app/
+
 ⚙️ How It Works
 
 1. Click the **“Generate Palette”** button to create a new set of 5 random colors.  
